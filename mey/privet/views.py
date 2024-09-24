@@ -4,4 +4,4 @@ from django.shortcuts import HttpResponse
 
 
 def get_hello(request):
-    return HttpResponse('<h1>Hello world!</h1>')
+    return HttpResponse('<h1>Привет</h1>')
